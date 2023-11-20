@@ -1,0 +1,63 @@
+Altium Designer Pick and Place Locations
+D:\Dropbox\Yugansh and Thao\Joe\Lacrosse Ball\Lacrosse_Ball Project\Project Outputs for Lacrosse_Ball\Pick Place for Lacrosse_Ball.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/10/23
+Time:       10:58
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C16","22uF","BottomLayer","C0603","2.8750","7.6000","360",""
+"Inverter F Antenna","Inverted F Antenna","TopLayer","Inverted_F_Antenna","14.3750","17.6550","360",""
+"X2","SIT1630AI-H4-DCC-32.768E","TopLayer","SIT1630AI-H4-DCC-32.768E","10.4000","2.2500","360","MEMS OSC XO 32.7680KHZ LVCMOS"
+"X1","ASEMB-32.000MHZ-LY-T","TopLayer","ASEMB-32.000MHZ-LY-T","10.0030","11.8140","90","MEMS OSC XO 32.0000MHZ CMOS SMD"
+"Vin_Test","TP","TopLayer","TP","1.4000","13.1000","90",""
+"U5","SC810ULTRT","BottomLayer","SC810ULTRT","31.7000","8.5000","180","IC BATT CHG LI-ION 1CELL 6MLP"
+"U4","APK2112K-3.3TRG1","BottomLayer","SOT-25-5","7.2000","9.2000","0","65dB@(100Hz,1kHz) 600mA Fixed 3.3V~3.3V Positive 6V SOT-23-5 Linear Voltage Regulators (LDO) ROHS"
+"U3","LSM6DSOTR","TopLayer","LGA-14(2.5x3)","32.8000","12.7000","180","LGA-14(2.5x3) Attitude Sensor/Gyroscope ROHS"
+"U2","H3LIS331DLTR","TopLayer","TFLGA-16(3x3)","24.9000","6.4000","270","TFLGA-16(3x3) Attitude Sensor/Gyroscope ROHS"
+"U1","NRF52832-QFAA-R","TopLayer","VFQFN-48","16.7000","8.9000","90","2Mbps 2.4GHz Bluetooth 2.4GHz I2C,SPI,UART QFN-48-EP(6x6) RF Transceiver ICs ROHS"
+"TXD","TP","TopLayer","TP","17.7000","1.1000","90",""
+"RXD","TP","TopLayer","TP","19.7000","1.1000","90",""
+"R16","33k","BottomLayer","R0201","17.3000","4.1250","270","33k 1% chip resistor"
+"R15","10k","BottomLayer","R0201","16.5000","3.0250","270","10k 1% Chip resistor"
+"R7","100k","BottomLayer","R0201","3.8267","11.6250","270","RC0201FR-07100KL  RES 100K OHM 1% 1/20W 0201"
+"R6","100k","BottomLayer","R0201","4.4000","9.3750","90","RC0201FR-07100KL  RES 100K OHM 1% 1/20W 0201"
+"R5","330R","BottomLayer","R0201","23.3250","3.4000","180","Resistor 0201 330ohm"
+"R4","2.94k","BottomLayer","R0201","28.6750","5.9000","180","Resistor 0201 2.94kohm"
+"R3","330R","TopLayer","R0201","21.9750","3.4000","180","Resistor 0201 330ohm"
+"R2","1K","TopLayer","R0201","15.1250","3.8000","180",""
+"R1","1K","TopLayer","R0201","14.6750","13.7000","0",""
+"Q1","DMG3415U-7","TopLayer","DMG3415U-7","2.9780","10.0590","270","MOSFET P-CH 20V 4A SOT23-3"
+"LED2","QBLP595-R","TopLayer","QBLP595-R","25.2842","1.7986","270","LED RED CLEAR 0402 SMD"
+"LED1","QBLP595-IB","TopLayer","QBLP595-IB","22.7856","1.8460","90","LED BLUE CLEAR 0402 SMD"
+"L3","15nH 5%","BottomLayer","LQG15HZ15NJ02D","10.4840","3.8650","360","FIXED IND 15NH 450MA 320MOHM SMD"
+"L2","10uH 20%","BottomLayer","LQM18DN100M70L","10.2460","6.4000","270","FIXED IND 10UH 300MA"
+"L1","3.9nH","TopLayer","C0201","15.8000","16.3250","270",""
+"J2","282834-2","TopLayer","282834-2","32.3300","3.6000","360","TERM BLK 2P SIDE ENT 2.54MM PCB"
+"J1","B2B-PH-K-S(LF)(SN)","TopLayer","B2B-PH-K-S(LF)(SN)","3.8630","2.0050","360","CONN HEADER VERT 2POS 2MM"
+"GND","TP","TopLayer","TP","15.8000","1.1000","90",""
+"DEBUG","TC2030-IDC-NL","TopLayer","TC2030-IDC-NL","24.1490","12.7910","360","Tag Connector 6POS"
+"D1","SM5817PL-TP","BottomLayer","SM5817PL-TP","2.0510","12.2600","90","DIODE SCHOTTKY 20V 1A SOD123FL"
+"C18","2.2uF","BottomLayer","C0603","28.7000","8.5250","270",""
+"C17","2.2uF","BottomLayer","C0603","34.4000","8.9750","90",""
+"C15","4.7uF","BottomLayer","C0402","11.0000","9.1000","90",""
+"C14","100nF","TopLayer","C0201","29.6000","14.0750","270",""
+"C13","0.8pF","TopLayer","C0201","17.3000","13.5750","90",""
+"C12","100nF","TopLayer","C0201","30.4000","14.0750","90",""
+"C11","100nF","TopLayer","C0201","12.8250","4.5000","180",""
+"C10","100nF","BottomLayer","C0201","17.1000","13.5750","90",""
+"C9","100nF","BottomLayer","C0201","16.1000","13.5750","90",""
+"C8","1uF","BottomLayer","C0402","12.0000","5.9000","90",""
+"C7","1uF","TopLayer","C0402","25.7000","9.0000","180",""
+"C6","100nF","TopLayer","C0201","25.6750","9.8000","180",""
+"C5","100nF","TopLayer","C0201","8.3000","6.0750","270",""
+"C4","100nF","TopLayer","C0201","9.6000","6.0750","270",""
+"C3","100nF","TopLayer","C0201","10.8000","6.0750","270",""
+"C2","4.7uF","TopLayer","C0402","10.2000","7.4000","360",""
+"C1","100nF","TopLayer","C0201","11.8000","6.0750","270",""
+"3.3V","TP","TopLayer","TP","13.5000","1.1000","90",""

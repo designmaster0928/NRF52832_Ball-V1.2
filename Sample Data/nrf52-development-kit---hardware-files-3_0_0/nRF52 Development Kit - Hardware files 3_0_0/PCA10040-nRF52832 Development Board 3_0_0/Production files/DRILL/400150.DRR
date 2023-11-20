@@ -1,0 +1,35 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 400150.PcbDoc   28.09.2021  09:31:07
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 400150-RoundHoles.TXT
+ASCII SlotHoles File : 400150-SlotHoles.TXT
+EIA File   : 400150.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      10mil (0.249mm)                                           Round             864       PTH        0.00inch (0.00mm)
+T3      12mil (0.305mm)                                           Round             16        PTH        0.00inch (0.00mm)
+T4      13mil (0.33mm)                                            Round             16        PTH        0.00inch (0.00mm)
+T5      20mil (0.5mm)                                             Slot              2         PTH        0.00inch (0.00mm)
+T6      35mil (0.899mm)                                           Round             82        PTH        0.00inch (0.00mm)
+T7      39mil (1.001mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T8      39mil (0.991mm)                                           Round             3         NPTH       0.00inch (0.00mm)
+T9      70mil (1.781mm)                                           Round             2         NPTH       0.00inch (0.00mm)
+T10     126mil (3.2mm)                                            Round             5         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              992
+Layer Pair : Top Layer to Mid-Layer 1
+ASCII RoundHoles File : 400150-RoundHoles.TX1
+EIA File   : 400150.DR1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      4mil (0.099mm)                                            Round             152       PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              152
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1144
+
+Total Processing Time (hh:mm:ss) : 00:00:01

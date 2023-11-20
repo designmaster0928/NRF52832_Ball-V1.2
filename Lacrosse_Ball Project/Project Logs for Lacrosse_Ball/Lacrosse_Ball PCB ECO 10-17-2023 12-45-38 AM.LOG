@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=L1-1
+Added Component: Designator=Ant1(Inverted_F_Antenna)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=Ant1-2
+Added Pin To Net: NetName=GND Pin=Ant1-2
+Added Pin To Net: NetName=NetAnt1_1 Pin=Ant1-1
+Added Pin To Net: NetName=NetAnt1_1 Pin=L1-1
+Added Net: Name=NetAnt1_1
+Added Member To Class: ClassName=Lacrosse_Ball Member=Component Ant1 Inverted F Antenna
+Added Room: Name=Lacrosse_Ball

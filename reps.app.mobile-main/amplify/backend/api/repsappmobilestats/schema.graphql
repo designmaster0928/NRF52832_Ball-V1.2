@@ -1,0 +1,18 @@
+type UserStats @model @auth(rules: [{ allow: owner }]) {
+  achievementId: String
+  averageSpeed: Int
+  dateTime: AWSDateTime
+  elapsedTime: Int
+  globalSecondaryIndex: String @index
+  hand: String
+  owner: String @auth(rules: [{ allow: owner, operations: [read, delete] }])
+  primarySortKey: String! @index
+  reps: Int
+  repTypes: String
+  sessionTime: Int
+  speed: Float
+  statId: String
+  timestamp: AWSTimestamp!
+  topSpeed: Int
+  userId: String! @primaryKey(sortKeyFields: ["primarySortKey"])
+}

@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-repsappmobile-dev-144921-authRole",
+      "UnauthRoleArn": "arn:aws:iam::279288201947:role/amplify-repsappmobile-dev-144921-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::279288201947:role/amplify-repsappmobile-dev-144921-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-repsappmobile-dev-144921-deployment",
+      "UnauthRoleName": "amplify-repsappmobile-dev-144921-unauthRole",
+      "StackName": "amplify-repsappmobile-dev-144921",
+      "StackId": "arn:aws:cloudformation:us-east-1:279288201947:stack/amplify-repsappmobile-dev-144921/11898140-7f0d-11ed-9d33-0e49b356150b",
+      "AmplifyAppId": "d3v7cl9wwq8zz4",
+      "AuthTriggerTemplateURL": "https://s3.amazonaws.com/amplify-repsappmobile-dev-144921-deployment/amplify-cfn-templates/auth/auth-trigger-cloudformation-template.json"
+    },
+    "categories": {
+      "auth": {
+        "repsappmobile260f39ee": {},
+        "userPoolGroups": {}
+      },
+      "api": {
+        "repsappmobilestats": {}
+      }
+    }
+  }
+}

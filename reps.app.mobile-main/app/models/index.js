@@ -1,0 +1,8 @@
+// @ts-check
+import { initSchema } from '@aws-amplify/datastore';
+
+import { schema } from './schema';
+
+const { UserStats } = initSchema(schema);
+
+export { UserStats };

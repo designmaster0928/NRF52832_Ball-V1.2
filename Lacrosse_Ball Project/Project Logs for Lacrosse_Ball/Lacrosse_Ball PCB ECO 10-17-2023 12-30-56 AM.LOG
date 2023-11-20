@@ -1,0 +1,442 @@
+Added Component: Designator=3.3V(TP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ant1(Inverted_F_Antenna)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(C0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C161494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "muRata(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM033Z71A104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0201"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C23733"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SAMSUNG(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL05A475MP5NRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0402"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C161494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "muRata(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM033Z71A104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0201"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C161494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "muRata(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM033Z71A104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0201"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C161494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "muRata(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM033Z71A104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0201"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C161494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "muRata(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM033Z71A104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0201"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C528974"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "muRata(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM155Z71A105KE01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packag"; Value = "C0402"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C528974"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "muRata(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM155Z71A105KE01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packag"; Value = "C0402"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C161494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "muRata(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM033Z71A104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0201"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C161494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "muRata(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM033Z71A104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0201"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C161494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "muRata(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM033Z71A104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0201"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C161494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "muRata(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM033Z71A104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0201"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C327151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "YAGEO(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CC0201CRNPO9BNR80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "C0201"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C161494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "muRata(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM033Z71A104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0201"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C23733"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SAMSUNG(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL05A475MP5NRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0402"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C84419"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "muRata(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM188R61A226ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0603"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C84419"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "muRata(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM188R61A226ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0603"; VariantName = "[No Variations]"
+Added Component: Designator=C18(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C84419"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "muRata(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM188R61A226ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0603"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SM5817PL-TP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=DEBUG(TC2030-IDC-NL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=GND(TP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(B2B-PH-K-S(LF)(SN))
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(282834-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(C0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C136219"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MLG0603S3N9ST000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packag"; Value = "L0201"; VariantName = "[No Variations]"
+Added Component: Designator=L2(LQM18DN100M70L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L3(LQG15HZ15NJ02D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED1(QBLP595-IB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED2(QBLP595-R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(DMG3415U-7)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(R0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C131396"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "YAGEO(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0201JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0201"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C131396"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "YAGEO(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0201JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0201"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C131396"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "YAGEO(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0201JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0201"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C131396"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "YAGEO(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0201JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0201"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C131396"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "YAGEO(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0201JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0201"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C2073629"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Intertech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRCW02014K70JNED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C2073629"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Intertech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRCW02014K70JNED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C2073629"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Intertech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRCW02014K70JNED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C2073629"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Intertech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRCW02014K70JNED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=RXD(TP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TXD(TP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(VFQFN-48)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C77540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nordic Semicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NRF52832-QFAA-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packag"; Value = "QFN-48-EP(6x6)"; VariantName = "[No Variations]"
+Added Component: Designator=U2(TFLGA-16(3x3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C2655074"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "H3LIS331DLTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TFLGA-16(3x3)"; VariantName = "[No Variations]"
+Added Component: Designator=U3(LGA-14(2.5x3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C2655100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LSM6DSOTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packag"; Value = "LGA-14(2.5x3)"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOT-25-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLCPCBPart#"; Value = "C51118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AP2112K-3.3TRG1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-25-5"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SC810ULTRT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Vin_Test(TP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X1(ASEMB-32.000MHZ-LY-T)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X2(SIT1630AI-H4-DCC-32.768E)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=BAT+ Pin=C18-1
+Added Pin To Net: NetName=BAT+ Pin=J1-1
+Added Pin To Net: NetName=BAT+ Pin=Q1-3
+Added Pin To Net: NetName=BAT+ Pin=R5-2
+Added Pin To Net: NetName=BAT+ Pin=R15-2
+Added Pin To Net: NetName=BAT+ Pin=U5-5
+Added Net: Name=BAT+
+Added Pin To Net: NetName=CHARGE_V Pin=C17-1
+Added Pin To Net: NetName=CHARGE_V Pin=J2-1
+Added Pin To Net: NetName=CHARGE_V Pin=U5-1
+Added Net: Name=CHARGE_V
+Added Pin To Net: NetName=GND Pin=Ant1-2
+Added Pin To Net: NetName=GND Pin=Ant1-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=DEBUG-5
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-45
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Pin To Net: NetName=GND Pin=U5-7
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetAnt1_1 Pin=Ant1-1
+Added Pin To Net: NetName=NetAnt1_1 Pin=L1-1
+Added Net: Name=NetAnt1_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=L3-2
+Added Pin To Net: NetName=NetC8_2 Pin=U1-46
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=U1-33
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=U1-32
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=U1-1
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=L1-2
+Added Pin To Net: NetName=NetC13_2 Pin=U1-30
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=D1-1
+Added Pin To Net: NetName=NetC16_1 Pin=Q1-2
+Added Pin To Net: NetName=NetC16_1 Pin=R6-1
+Added Pin To Net: NetName=NetC16_1 Pin=U4-1
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetDEBUG_2 Pin=DEBUG-2
+Added Pin To Net: NetName=NetDEBUG_2 Pin=U1-26
+Added Net: Name=NetDEBUG_2
+Added Pin To Net: NetName=NetDEBUG_3 Pin=DEBUG-3
+Added Pin To Net: NetName=NetDEBUG_3 Pin=U1-24
+Added Net: Name=NetDEBUG_3
+Added Pin To Net: NetName=NetDEBUG_4 Pin=DEBUG-4
+Added Pin To Net: NetName=NetDEBUG_4 Pin=U1-25
+Added Net: Name=NetDEBUG_4
+Added Pin To Net: NetName=NetDEBUG_6 Pin=DEBUG-6
+Added Pin To Net: NetName=NetDEBUG_6 Pin=U1-21
+Added Net: Name=NetDEBUG_6
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=U1-47
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=L3-1
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R3-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=U5-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R5-1
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-35
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-3
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-8
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U5-4
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U4-3
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=R16-1
+Added Pin To Net: NetName=NetR15_1 Pin=U1-4
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetRXD_1 Pin=RXD-1
+Added Pin To Net: NetName=NetRXD_1 Pin=U1-6
+Added Net: Name=NetRXD_1
+Added Pin To Net: NetName=NetTXD_1 Pin=TXD-1
+Added Pin To Net: NetName=NetTXD_1 Pin=U1-5
+Added Net: Name=NetTXD_1
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=X2-3
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=NetU1_9 Pin=U1-9
+Added Pin To Net: NetName=NetU1_9 Pin=U2-11
+Added Net: Name=NetU1_9
+Added Pin To Net: NetName=NetU1_10 Pin=U1-10
+Added Pin To Net: NetName=NetU1_10 Pin=U2-9
+Added Net: Name=NetU1_10
+Added Pin To Net: NetName=NetU1_14 Pin=U1-14
+Added Pin To Net: NetName=NetU1_14 Pin=U2-8
+Added Net: Name=NetU1_14
+Added Pin To Net: NetName=NetU1_15 Pin=U1-15
+Added Pin To Net: NetName=NetU1_15 Pin=U2-7
+Added Net: Name=NetU1_15
+Added Pin To Net: NetName=NetU1_16 Pin=U1-16
+Added Pin To Net: NetName=NetU1_16 Pin=U2-6
+Added Net: Name=NetU1_16
+Added Pin To Net: NetName=NetU1_17 Pin=U1-17
+Added Pin To Net: NetName=NetU1_17 Pin=U2-4
+Added Net: Name=NetU1_17
+Added Pin To Net: NetName=NetU1_19 Pin=U1-19
+Added Pin To Net: NetName=NetU1_19 Pin=U3-1
+Added Net: Name=NetU1_19
+Added Pin To Net: NetName=NetU1_20 Pin=U1-20
+Added Pin To Net: NetName=NetU1_20 Pin=U3-12
+Added Net: Name=NetU1_20
+Added Pin To Net: NetName=NetU1_22 Pin=U1-22
+Added Pin To Net: NetName=NetU1_22 Pin=U3-14
+Added Net: Name=NetU1_22
+Added Pin To Net: NetName=NetU1_23 Pin=U1-23
+Added Pin To Net: NetName=NetU1_23 Pin=U3-13
+Added Net: Name=NetU1_23
+Added Pin To Net: NetName=NetU1_27 Pin=U1-27
+Added Pin To Net: NetName=NetU1_27 Pin=U3-4
+Added Net: Name=NetU1_27
+Added Pin To Net: NetName=NetU1_28 Pin=U1-28
+Added Pin To Net: NetName=NetU1_28 Pin=U3-9
+Added Net: Name=NetU1_28
+Added Pin To Net: NetName=NetU1_34 Pin=U1-34
+Added Pin To Net: NetName=NetU1_34 Pin=X1-3
+Added Net: Name=NetU1_34
+Added Pin To Net: NetName=NetU1_39 Pin=U1-39
+Added Pin To Net: NetName=NetU1_39 Pin=X1-1
+Added Net: Name=NetU1_39
+Added Pin To Net: NetName=VDD Pin=3.3V-1
+Added Pin To Net: NetName=VDD Pin=C1-1
+Added Pin To Net: NetName=VDD Pin=C2-1
+Added Pin To Net: NetName=VDD Pin=C3-1
+Added Pin To Net: NetName=VDD Pin=C4-1
+Added Pin To Net: NetName=VDD Pin=C5-1
+Added Pin To Net: NetName=VDD Pin=C6-2
+Added Pin To Net: NetName=VDD Pin=C7-2
+Added Pin To Net: NetName=VDD Pin=C12-1
+Added Pin To Net: NetName=VDD Pin=C14-2
+Added Pin To Net: NetName=VDD Pin=C15-1
+Added Pin To Net: NetName=VDD Pin=DEBUG-1
+Added Pin To Net: NetName=VDD Pin=U1-13
+Added Pin To Net: NetName=VDD Pin=U1-36
+Added Pin To Net: NetName=VDD Pin=U1-48
+Added Pin To Net: NetName=VDD Pin=U2-1
+Added Pin To Net: NetName=VDD Pin=U2-14
+Added Pin To Net: NetName=VDD Pin=U2-15
+Added Pin To Net: NetName=VDD Pin=U3-5
+Added Pin To Net: NetName=VDD Pin=U3-8
+Added Pin To Net: NetName=VDD Pin=U4-5
+Added Pin To Net: NetName=VDD Pin=X1-4
+Added Pin To Net: NetName=VDD Pin=X2-4
+Added Net: Name=VDD
+Added Pin To Net: NetName=Vin_Test Pin=D1-2
+Added Pin To Net: NetName=Vin_Test Pin=Q1-1
+Added Pin To Net: NetName=Vin_Test Pin=R7-1
+Added Pin To Net: NetName=Vin_Test Pin=Vin_Test-1
+Added Net: Name=Vin_Test
+Added Class: Name=Lacrosse_Ball
+Added Room: Name=Lacrosse_Ball
